@@ -123,9 +123,7 @@ Other        0 secs                ▒░░░░░░░░░░░░░░
 
 ## 🎧 Listen with me
 
-[![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=red)](https://music.apple.com/in/playlist/aubrey/pl.u-MDAWklGs335zpL5)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&redirect=true)
 ---
  ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
 
