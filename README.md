@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/surya-pratap-singh-11490332a" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-pratap-singh-2a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
