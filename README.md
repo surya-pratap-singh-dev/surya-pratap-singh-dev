@@ -1,8 +1,8 @@
 <h1 align="center"><h1 align="center" style="color:#cdd6f4;"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suryaaa <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVuZnJwZDJyZ3BuZ2JldTM0cDV3c3VheGFxc3o4Y3Bvd3BjNDdodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width= "70px"/>       
 
-  <img src="https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat" /> 
+  <img src="https://komarev.com/ghpvc/?username=surya-pratap-singh-dev&label=Profile%20views&color=0e75b6&style=flat" /> 
 
-![](https://github-trophies.vercel.app/?username=FAKE-SURYA&theme=onedark)
+![](https://github-trophies.vercel.app/?username=surya-pratap-singh-dev&theme=onedark)
 
 
 
@@ -81,20 +81,20 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAKE-SURYA&theme=tokyonight&hide_border=true" width="210%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-pratap-singh-dev&theme=tokyonight&hide_border=true" width="210%" />
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FAKE-SURYA&layout=compact&theme=tokyonight&hide_border=true" width="180%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surya-pratap-singh-dev&layout=compact&theme=tokyonight&hide_border=true" width="180%" />
     </td>
   </tr>
 </table>
 
 ### 📈 CONTRIBUTIONS THIS MONTH
 
-<a href="https://github.com/FAKE-SURYA/github-readme-activity-graph">
+<a href="https://github.com/surya-pratap-singh-dev/github-readme-activity-graph">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=surya-pratap-singh-dev&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=surya-pratap-singh-dev&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
 
@@ -125,7 +125,7 @@ Markdown     0 secs                ░░░░░░░░░░░░░░░
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&redirect=true)
 ---
- ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/surya-pratap-singh-dev/surya-pratap-singh-dev/blob/output/github-snake-dark.svg)
 
 
 
