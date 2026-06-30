@@ -10,9 +10,9 @@
 </h1>
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
-	  <img alt="Typing SVG"    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=500&lines=A+passionate+Backend+Developer+from+India+" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&random=false&width=500&lines=A+passionate+Backend+Developer+from+India+" />
+	  <img alt="Typing SVG"    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=500&lines=A+passionate+Backend+Developer+from+India+" />
 	</picture>
 </p>
 <img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
