@@ -111,15 +111,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2026 - To: 21 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
 Total Time: 19 mins
 
-Markdown     16 mins               ██████████████░░░░░░░░░░░   55.48 %
-Other        9 mins                ████████▒░░░░░░░░░░░░░░░░   32.98 %
-JavaScript   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Markdown     16 mins               █████████████▒░░░░░░░░░░░   53.32 %
+Other        10 mins               █████████░░░░░░░░░░░░░░░░   35.59 %
+JavaScript   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
