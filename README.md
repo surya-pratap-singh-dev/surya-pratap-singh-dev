@@ -111,15 +111,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
 Total Time: 2 mins
 
-Other        11 mins               ████████████████████▒░░░░   81.12 %
-JSON         2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Bash         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        8 mins                ██████████████████▓░░░░░░   74.81 %
+JSON         2 mins                █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Bash         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
