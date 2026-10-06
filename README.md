@@ -125,7 +125,7 @@ Other    3 mins                █▓░░░░░░░░░░░░░░�
 
 ## 🎧 Listen with me
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=vyfk54i0vllp1v05095oyu6zl&redirect=true)
 ---
  ![snake gif](https://github.com/surya-pratap-singh-dev/surya-pratap-singh-dev/blob/output/github-snake-dark.svg)
 
