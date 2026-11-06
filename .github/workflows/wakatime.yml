@@ -9,13 +9,20 @@ jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: athul/waka-readme@master
+      - id: wakatime
+        if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        continue-on-error: true
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TOTAL: true
-
+      - name: WakaTime token warning
+        if: ${{ steps.wakatime.outcome == 'failure' }}
+        run: echo "::warning::WakaTime stats update failed (403 Forbidden). Update secret WAKATIME_API_KEY with a valid WakaTime OAuth token."
